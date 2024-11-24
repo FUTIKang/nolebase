@@ -5,7 +5,6 @@ import { InlineLinkPreviewElementTransform } from '@nolebase/vitepress-plugin-in
 
 import { transformHeadMeta } from '@nolebase/vitepress-plugin-meta'
 import { calculateSidebar } from '@nolebase/vitepress-plugin-sidebar'
-// import { buildEndGenerateOpenGraphImages } from '@nolebase/vitepress-plugin-og-image/vitepress'
 import MarkdownItFootnote from 'markdown-it-footnote'
 import MarkdownItMathjax3 from 'markdown-it-mathjax3'
 import { defineConfig } from 'vitepress'
@@ -120,9 +119,7 @@ export default defineConfig({
     ['meta', {
       name: 'msapplication-TileColor',
       content: '#603cba',
-    }],
-    // Proxying Plausible through Netlify | Plausible docs
-    // https://plausible.io/docs/proxy/guides/netlify
+    }],\
     ['script', { 'defer': 'true', 'data-domain': 'nolebase.ayaka.io', 'data-api': '/api/v1/page-external-data/submit', 'src': '/assets/page-external-data/js/script.js' }],
   ],
   themeConfig: {
