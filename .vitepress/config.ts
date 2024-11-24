@@ -119,7 +119,7 @@ export default defineConfig({
     ['meta', {
       name: 'msapplication-TileColor',
       content: '#603cba',
-    }],\
+    }],
     ['script', { 'defer': 'true', 'data-domain': 'nolebase.ayaka.io', 'data-api': '/api/v1/page-external-data/submit', 'src': '/assets/page-external-data/js/script.js' }],
   ],
   themeConfig: {
