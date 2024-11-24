@@ -210,12 +210,12 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: '笔记', link: '/笔记/' },
-      { text: '编目 Catalog', link: '/编目 Catalog/' },
+      { text: '生活日常', link: '/生活日常/' },
       { text: '最近更新', link: '/toc' },
     ],
     sidebar: calculateSidebar([
       { folderName: '笔记', separate: true },
-      { folderName: '编目 Catalog', separate: true },
+      { folderName: '生活日常', separate: true },
     ]),
   },
   markdown: {
