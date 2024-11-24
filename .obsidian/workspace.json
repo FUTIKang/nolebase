@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "9c4319247fa7910f",
+    "type": "split",
+    "children": [
+      {
+        "id": "57f85fe9c724f984",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1b26af2da0e608f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/数据库/01 MySQL/00 启动/01 Linux 安装MySQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2bfaa5d58e5e6c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb2a9300a225969e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9196511dd137e91d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee6a60767c786e2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef6f8d7e9fd53ab8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02925305e06aaa94",
+    "type": "split",
+    "children": [
+      {
+        "id": "29a9c51a4d546c5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c0ab38c5aa4097c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "笔记/数据库/01 MySQL/00 启动/01 Linux 安装MySQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e92dd31c4f9d165",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "笔记/数据库/01 MySQL/00 启动/01 Linux 安装MySQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97004dd272c99b62",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "237ba1ff43877801",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "笔记/数据库/01 MySQL/00 启动/01 Linux 安装MySQL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b1b26af2da0e608f",
+  "lastOpenFiles": [
+    "笔记/操作系统/Linux/防火墙/ufw.md",
+    "笔记/操作系统/Linux/防火墙/firewall or firewalld.md",
+    "笔记/操作系统/Linux/终端指令/终端.md",
+    "笔记/操作系统/Linux/终端指令/systemctl.md",
+    "笔记/软件开发/后端框架/SpringBoot/00 Spring Boot报错指南.md",
+    "笔记/软件开发/后端框架/SpringBoot/Spring Security/01 引入 Spring Security 项目依赖.md",
+    "笔记/index.md",
+    "笔记/数据库/00 SQL 语言基础/数据操控 DML/03 DELETE.md",
+    "笔记/数据库/00 SQL 语言基础/数据操控 DML/02 INSERT.md",
+    "笔记/数据库/00 SQL 语言基础/数据操控 DML/01 SELECT/01 SELECT【查询】.md",
+    "笔记/数据库/00 SQL 语言基础/数据操控 DML/01 SELECT/07 Fetch 子句【分页查询】.md",
+    "笔记/数据库/00 SQL 语言基础/数据操控 DML/01 SELECT/02 Distinct【去重】.md",
+    "笔记/数据库/00 SQL 语言基础/数据操控 DML/01 SELECT/03 ORDER BY【排序】.md",
+    "生活日常/☀️ 生活/测试.md",
+    "生活日常/index.md"
+  ]
+}
