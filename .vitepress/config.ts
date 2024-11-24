@@ -245,12 +245,5 @@ export default defineConfig({
 
     return head
   },
-  // async buildEnd(siteConfig) {
-  //   await buildEndGenerateOpenGraphImages({
-  //     baseUrl: targetDomain,
-  //     category: {
-  //       byLevel: 2,
-  //     },
-  //   })(siteConfig)
-  // },
+
 })
