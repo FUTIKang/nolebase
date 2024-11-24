@@ -17,7 +17,7 @@ hero:
       text: 开始阅读
       link: /笔记/index
     - theme: alt
-      text: 加入 Gitee 
+      text: Gitee 
       link: https://gitee.com/FUTIKang
     - theme: alt
       text: GitHub 上浏览
