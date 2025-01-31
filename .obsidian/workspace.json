@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活日常/☀️ 生活/生活.md",
+                "file": "笔记/工具学习/Minio/00 安装及使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活日常/☀️ 生活/生活.md",
+                "file": "笔记/工具学习/Minio/00 安装及使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活日常/☀️ 生活/生活.md",
+                "file": "笔记/工具学习/Minio/00 安装及使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活日常/☀️ 生活/生活.md"
+                "file": "笔记/工具学习/Minio/00 安装及使用.md"
               }
             }
           }
@@ -148,6 +148,16 @@
   },
   "active": "b1b26af2da0e608f",
   "lastOpenFiles": [
+    "笔记/工具学习/Minio/00 安装及使用.md",
+    "笔记/工具学习/Minio/01 基础命令.md",
+    "笔记/软件开发/后端框架/SpringBoot/JWT/00 JWT介绍.md",
+    "笔记/软件开发/后端框架/SpringBoot/JWT/01 JWT 使用.md",
+    "笔记/软件开发/后端框架/SpringCloud/理论基础/SpringCloud配置文件.md",
+    "生活日常/旅行日记/2024年11月/2024年11月24日.md",
+    "笔记/工具学习/Minio",
+    "笔记/项目/GNF-Social.md",
+    "笔记/工具学习/Docker/02 Docker 安装容器组件/Docker 安装容器组件.md",
+    "笔记/项目",
     "生活日常/🙌日记/2024年11月/2024年11月24日.md",
     "生活日常/☀️ 生活/生活.md",
     "笔记/数据库/01 MySQL/00 启动/01 Linux 安装MySQL.md",
@@ -168,11 +178,6 @@
     "笔记/软件开发/后端框架/SpringBoot/00 Spring Boot报错指南.md",
     "笔记/软件开发/后端框架/SpringBoot/Spring Security/01 引入 Spring Security 项目依赖.md",
     "笔记/index.md",
-    "笔记/数据库/00 SQL 语言基础/数据操控 DML/03 DELETE.md",
-    "笔记/数据库/00 SQL 语言基础/数据操控 DML/02 INSERT.md",
-    "笔记/数据库/00 SQL 语言基础/数据操控 DML/01 SELECT/01 SELECT【查询】.md",
-    "笔记/数据库/00 SQL 语言基础/数据操控 DML/01 SELECT/07 Fetch 子句【分页查询】.md",
-    "笔记/数据库/00 SQL 语言基础/数据操控 DML/01 SELECT/02 Distinct【去重】.md",
-    "笔记/数据库/00 SQL 语言基础/数据操控 DML/01 SELECT/03 ORDER BY【排序】.md"
+    "笔记/数据库/00 SQL 语言基础/数据操控 DML/03 DELETE.md"
   ]
 }
